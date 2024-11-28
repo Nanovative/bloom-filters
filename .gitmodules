@@ -1,0 +1,3 @@
+[submodule "hasher"]
+	path = hasher
+	url = https://github.com/Nanovative/hasher.git
